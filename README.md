@@ -37,7 +37,7 @@ I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=musahibrahimali&show_icons=true&hide_border=true)
 
-Check for a detailed stats here :point_right: [musahibrahimali](https://github.com/musahibrahimali)
+Check for a detailed stats here :point_right: [musahibrahimali](https://github.com/miastudiosinc)
 
 ---
 
@@ -81,4 +81,4 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 [linkedin]: https://www.linkedin.com/in/musah-ibrahim-ali-820600ab/ 
 [facebook]: https://web.facebook.com/musah.ibrahim.3958
  
- ⭐️ From [Musah Ibrahim Ali](https://github.com/musahibrahimali)
+ ⭐️ From [miastudios inc](https://github.com/miastudiosinc)
