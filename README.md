@@ -35,7 +35,7 @@ I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while 
  <img src="https://img.shields.io/badge/-typescript-F89820?style=flat&logo=typescript&logoColor=white">
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=musahibrahimali&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=miastudiosinc&show_icons=true&hide_border=true)
 
 Check for a detailed stats here :point_right: [musahibrahimali](https://github.com/miastudiosinc)
 
