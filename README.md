@@ -1,16 +1,16 @@
 
-### Hi there 👋 I'm Musah Ibrahim Ali,
-I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
+### Hi there 👋 This is the official github account of miastudiosinc,
+We specialize in Full-stack Mobile and Web Developer, exploring Cloud :cloud: while facilitating the world with User Experience with our Design Thinking Skills and Enthusiast about ML. :wink:
  
- 🔭 I’m planning for a Project **Vision: ML-based System for Blinds**.
+ 🔭 We are planning for a Project **Vision: ML-based System for Blinds**.
  
- 🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform
+ 🌱 We are currently exporing <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform
  
- :books: I Love working with <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
+ :books: Our team loves working with <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
  
-👯 I’m looking to collaborate for a Flutter and ML-based project **Doc App**.
+👯 We are looking forward to collaborate on a Flutter and ML-based project **Doc App**.
  
- 💬 Ask me about Full Stack Development, Python, and any Tech-related stuff.
+ 💬 Ask us about Full Stack Development, Python, and any Tech-related stuff.
  
 ### Tech & Tools Preference
 
@@ -30,19 +30,19 @@ I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while 
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 
-### Other Languages I know
+### Other Languages We specialize in.
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="http://img.shields.io/badge/-kotlin-F89820?style=flat&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-purple?style=flat&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/-csharp-green?style=flat&logo=csharp&logoColor=white">
  <img src="https://img.shields.io/badge/-typescript-F89820?style=flat&logo=typescript&logoColor=white">
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=miastudiosinc&show_icons=true&hide_border=true)
 
-Check for a detailed stats here :point_right: [musahibrahimali](https://github.com/miastudiosinc)
+Check for a detailed stats here :point_right: [miastudiosinc](https://github.com/miastudiosinc)
 
 ---
 
 
-### You can find me on the web 🌍
+### You can find us on the web 🌍
 [<img align="left" alt="MusahIbrahimAli" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="MusahIbrahimAli | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="MusahIbrahimAli | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -56,21 +56,22 @@ Check for a detailed stats here :point_right: [musahibrahimali](https://github.c
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on some cool flutter projects
-- 🌱 I’m currently learning Cyber Security
-- 👯 I’m looking to collaborate on FLuter AI reading Mobile App
-- 🤔 I’m looking forward to helping others with Learning Coding
-- 💬 Ask me about web, mobile and tech related stuff
-- 📫 How to reach me: +233542864498 or musahibrahimali@gmail.com
+- 🔭 We currently working on some cool flutter projects
+- 🌱 We currently exploring Cyber Security
+- 👯 We looking to collaborate on FLuter AI reading Mobile App
+- 🤔 We looking forward to helping others with Learning Coding
+- 💬 Ask us about web, mobile and tech related stuff
+- 📫 How to reach us: +233502741426 or miastudiosinc@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: I love everything about coding and a full stack web and mobile developement
+- ⚡ Fun fact: We love everything about coding and a full stack web and mobile developement
 - ⚡ Quote: You may write me down in history with your bitter twisted lies, you may trod me in the very dirth but like dust and air i will always rise.
 
 -->
     
-Do :star: my work if you find it interesting, it helps me stay on track and be motivated.
+Do :star: our work if you find it interesting, it helps us stay on track and be motivated.
 
 Let's connect 👨‍💻 and forge the future together.😁✌
+building the future today.... 😁✌
 
 **Check out my Repositories and don't forget to give a star.** 👇 
 
